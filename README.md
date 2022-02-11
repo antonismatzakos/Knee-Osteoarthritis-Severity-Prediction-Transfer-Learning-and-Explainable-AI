@@ -1,4 +1,4 @@
-# Osteoarthritis-KL-Grading
+# Knee Osteoarthritis (OA)- Severity Prediction - KL-Grading
 
 Grade 0: Healthy knee image.
 
